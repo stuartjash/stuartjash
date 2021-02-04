@@ -1,6 +1,6 @@
 ### Hi Everyone 👋👨‍💻
 
-Hello, my name is Stuart. I'm a detections developer, working in Apple Security at [Jamf](https://www.jamf.com/products/jamf-protect/). I also created Crash Security, where I also blog about macOS and macOS security. I'm also a book nerd 📖 and play the violin 🎻
+My name is Stuart. I'm a detections developer, working in Apple Security at [Jamf](https://www.jamf.com/products/jamf-protect/). I created Crash Security, where I blog about macOS and macOS security. I'm a book nerd 📖 and play the violin 🎻
 
 Find me around the web 🌎:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/stuartashenbrenner-721b73127/) 💼
