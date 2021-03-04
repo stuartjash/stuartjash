@@ -1,26 +1,9 @@
 ### Hi Everyone 👋👨‍💻
 
-My name is Stuart. I'm a detections developer, working in Apple Security at [Jamf](https://www.jamf.com/products/jamf-protect/). I created Crash Security, where I blog about macOS and macOS security. I'm a book nerd 📖 and play the violin 🎻
+My name is Stuart. I'm a detections engineer, working in macOS Security at [Jamf](https://www.jamf.com/products/jamf-protect/). I created Crash Security, where I blog about macOS and macOS security. I'm a book nerd 📖 and play the violin 🎻
 
 Find me around the web 🌎:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/stuartashenbrenner-721b73127/) 💼
 * Personal [Twitter](https://twitter.com/stuartjash) 🗣
 * Writing & Programming for [Jamf Software](https://www.jamf.com/blog/category/security/) ✏️ 🤓
 * Blog posts on [Crash Security](https://crashsecurity.com/) 📝
-* Non-profit work with [Bridging the Gap-Oregon](https://bridgingthegaporegon.org/) 🌉
-
-
-<!--
-**stuartjash/stuartjash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
