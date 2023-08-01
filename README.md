@@ -10,4 +10,3 @@ Find me around the web 🌎:
 * Personal
   * [LinkedIn](https://www.linkedin.com/in/stuartashenbrenner-721b73127/) 💼
   * [Twitter](https://twitter.com/stuartjash) 🗣
-  * [Mastodon](https://infosec.exchange/@stuartjash) 🗣️
