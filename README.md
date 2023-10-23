@@ -10,9 +10,11 @@ Find me around the web 🌎:
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Speaking 🗣
-    * (dm)XProtect: Stop, Drop, Shut Malware Down Before It Opens Up Shop at [MacDevOpsYVR 2023](https://youtu.be/43BIK-e7FBE)
-    * Aftermath talk at [Objective by the Sea 2022](https://youtu.be/cC7c-eTGMOQ)
-    * Built-In macOS Security Tools talk at [JNUC 2022](https://youtu.be/awNRmUapzqg)
+    * [What Happened?: Swiftly Investigating macOS Security Incidents with Aftermath at JNUC 2023]()
+    * [(dm)XProtect: Stop, Drop, Shut Malware Down Before It Opens Up Shop at MacDevOpsYVR 2023](https://youtu.be/43BIK-e7FBE)
+    * [In the Aftermath at Objective by the Sea 2022](https://youtu.be/cC7c-eTGMOQ)
+    * [A Closer Look at Built-In macOS Security Tools at JNUC 2022](https://youtu.be/awNRmUapzqg)
+    * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
       * [Ask the Mac Guy: Do I Need AV on Mac](https://www.huntress.com/blog/ask-the-mac-guy-do-i-need-av-on-mac)
