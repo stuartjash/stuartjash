@@ -1,6 +1,6 @@
 ### Hi Everyone 👋👨‍💻
 
-My name is Stuart. I'm a macOS security researcher at Huntress, and I created Crash Security. I'm a reader 📖, basketball coach 🏀, and play the violin 🎻. Former radio DJ and play-by-play broadcaster.
+My name is Stuart. I'm a macOS security researcher at Huntress, and I created Crash Security (although I don't really maintain it anymore). I'm a reader 📖, basketball coach 🏀, and play the violin 🎻. Former radio DJ and play-by-play broadcaster.
 
 Find me around the web 🌎:
 * Personal
@@ -19,6 +19,7 @@ Find me around the web 🌎:
     * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
+      * [macOS Terms and Trends You Should Know About](https://www.huntress.com/blog/macos-terms-and-trends-you-should-know-about)
       * [Ask the Mac Guy: Do I Need AV on Mac](https://www.huntress.com/blog/ask-the-mac-guy-do-i-need-av-on-mac)
       * [Ask the Mac Guy: What's the Deal with Full Disk Access](https://www.huntress.com/blog/ask-the-mac-guy-whats-the-deal-with-full-disk-access)
       * [Ask the Mac Guy: Best Practices for Securing Macs](https://www.huntress.com/blog/ask-the-mac-guy-best-practices-for-securing-macs)
