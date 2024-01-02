@@ -11,7 +11,7 @@ Find me around the web 🌎:
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Speaking 🗣
-    * [Investigating macOS Malware with Open Source Tools at Huntress's Tradecraft Tuesday 2023 (Virtual)](https://www.huntress.com/resources/tradecraft-tuesday?wchannelid=zy8dl5egyy&wmediaid=g3iiak1g7i)
+    * [Investigating macOS Malware with Open Source Tools at Huntress's Tradecraft Tuesday 2023 (Virtual)](https://www.youtube.com/watch?v=GmlU3oWYcYs)
     * [What Happened?: Swiftly Investigating macOS Security Incidents with Aftermath at JNUC 2023](https://youtu.be/lvfQMnkOZDM?si=QFQe_Qw5192dQXoA)
     * [(dm)XProtect: Stop, Drop, Shut Malware Down Before It Opens Up Shop at MacDevOpsYVR 2023](https://youtu.be/43BIK-e7FBE)
     * [In the Aftermath at Objective by the Sea 2022](https://youtu.be/cC7c-eTGMOQ)
