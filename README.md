@@ -19,6 +19,7 @@ Find me around the web 🌎:
     * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
+      * [Full Transparency: Controlling Apple's TCC](https://www.huntress.com/blog/full-transparency-controlling-apples-tcc)
       * [macOS Terms and Trends You Should Know About](https://www.huntress.com/blog/macos-terms-and-trends-you-should-know-about)
       * [Ask the Mac Guy: Do I Need AV on Mac](https://www.huntress.com/blog/ask-the-mac-guy-do-i-need-av-on-mac)
       * [Ask the Mac Guy: What's the Deal with Full Disk Access](https://www.huntress.com/blog/ask-the-mac-guy-whats-the-deal-with-full-disk-access)
