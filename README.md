@@ -12,12 +12,17 @@ Find me around the web 🌎:
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Speaking 🗣
     * Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024 (_coming June 2024_)
+    * Stop Mac Hacks in Their Tracks (Virtual) (_coming May 2024_)
+    * Famous AMOS: Protecting Your Cookies at Huntress's Tradecraft Tuesday 2024 (Virtual) (_coming May 2024_)
     * [Investigating macOS Malware with Open Source Tools at Huntress's Tradecraft Tuesday 2023 (Virtual)](https://www.youtube.com/watch?v=GmlU3oWYcYs)
     * [What Happened?: Swiftly Investigating macOS Security Incidents with Aftermath at JNUC 2023](https://youtu.be/lvfQMnkOZDM?si=QFQe_Qw5192dQXoA)
     * [(dm)XProtect: Stop, Drop, Shut Malware Down Before It Opens Up Shop at MacDevOpsYVR 2023](https://youtu.be/43BIK-e7FBE)
     * [In the Aftermath at Objective by the Sea 2022](https://youtu.be/cC7c-eTGMOQ)
     * [A Closer Look at Built-In macOS Security Tools at JNUC 2022](https://youtu.be/awNRmUapzqg)
     * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
+  * Podcasts 🎙️
+    * [MacAdmins Podcast on 01/15/2024- Matt & Stuart on Aftermath](https://podcasts.apple.com/us/podcast/mac-admins-podcast/id1097430326?i=1000641691835)
+    * [MacDevOpsYVR on 06/07/2023 - Hey let's get ready for MacDevOps!](https://podcasts.apple.com/us/podcast/macdevopsyvr-podcast/id1502634809?i=1000616064309)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
       * [LightSpy Malware Variant Targeting macOS](https://www.huntress.com/blog/lightspy-malware-variant-targeting-macos)
