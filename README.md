@@ -38,7 +38,7 @@ Find me around the web 🌎:
       * [The Battle for macOS Management: MDM vs. RMM](https://www.huntress.com/blog/the-battle-for-macos-management-mdm-vs-rmm)
       * [Endpoint Security in a macOS World](https://www.huntress.com/blog/endpoint-security-in-a-macos-world)
       * [macOS (Not)ifications](https://www.huntress.com/blog/macos-notifications?hs_preview=CUMywizO-106929236292)
-      * [Built-in macOS Security TOols](https://www.huntress.com/blog/built-in-macos-security-tools)
+      * [Built-in macOS Security Tools](https://www.huntress.com/blog/built-in-macos-security-tools)
       * [Insistence on Persistence](https://www.huntress.com/blog/insistence-on-persistence)
     * Jamf
       * [Get to know Aftermath: Jamf’s open-source incident response tool](https://www.jamf.com/blog/aftermath-open-source-incident-response-tool/)
