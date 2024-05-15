@@ -10,7 +10,7 @@ Find me around the web 🌎:
 * macOS
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
-  * Speaking 🗣 (*slide decks also available in [Presentations repo](https://github.com/stuartjash/Presentations)*)
+  * Speaking 🗣
     * Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024 (_coming June 2024_)
     * Stop Mac Hacks in Their Tracks at Huntress (_coming May 2024_)
     * Famous AMOS: Protecting Your Cookies at Huntress's Tradecraft Tuesday 2024 (_coming May 2024_)
@@ -59,4 +59,6 @@ Find me around the web 🌎:
       * [Apple has pushed a new update to XProtect](https://www.jamf.com/blog/apple-has-pushed-a-new-update-to-xprotect/)
       * [iOS developers targeted by new XcodeSpy malware](https://www.jamf.com/blog/ios-developers-targeted-by-new-xcodespy-malware/)
       * [Apple updates to XProtect and MRT](https://www.jamf.com/blog/apple-updates-to-xprotect-and-mrt/)
+     
+      *(slide decks are also available in the [Presentations repo](https://github.com/stuartjash/Presentations))*
 
