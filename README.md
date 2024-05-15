@@ -21,7 +21,8 @@ Find me around the web 🌎:
     * [A Closer Look at Built-In macOS Security Tools at JNUC 2022](https://youtu.be/awNRmUapzqg)
     * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
   * Podcasts 🎙️
-    * [MacAdmins Podcast on 01/15/2024- Matt & Stuart on Aftermath](https://podcasts.apple.com/us/podcast/mac-admins-podcast/id1097430326?i=1000641691835)
+    * [MacDevOpsYVR on 05/14/2024 - Aftermath with Stuart Ashenbrenner](https://podcasts.apple.com/us/podcast/macdevopsyvr-podcast/id1502634809?i=1000655619981)
+    * [MacAdmins Podcast on 01/15/2024 - Matt & Stuart on Aftermath](https://podcasts.apple.com/us/podcast/mac-admins-podcast/id1097430326?i=1000641691835)
     * [MacDevOpsYVR on 06/07/2023 - Hey let's get ready for MacDevOps!](https://podcasts.apple.com/us/podcast/macdevopsyvr-podcast/id1502634809?i=1000616064309)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
