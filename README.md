@@ -10,7 +10,7 @@ Find me around the web 🌎:
 * macOS
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
-  * Speaking 🗣
+  * Speaking 🗣 (*slide decks also available in [Presentations repo](https://github.com/stuartjash/Presentations)*)
     * Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024 (_coming June 2024_)
     * Stop Mac Hacks in Their Tracks at Huntress (_coming May 2024_)
     * Famous AMOS: Protecting Your Cookies at Huntress's Tradecraft Tuesday 2024 (_coming May 2024_)
