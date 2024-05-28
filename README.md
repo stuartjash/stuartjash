@@ -12,7 +12,7 @@ Find me around the web 🌎:
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Speaking 🗣
     * Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024 (_coming June 2024_)
-    * Stop Mac Hacks in Their Tracks at Huntress (_coming May 2024_)
+    * Stop Mac Hacks in Their Tracks at Huntress
     * [Famous AMOS: Protecting Your Cookies at Huntress's Tradecraft Tuesday 2024](https://youtu.be/oV6zYhGQU6g?si=V5cn5Gs_jv-n2Qzo)
     * [Investigating macOS Malware with Open Source Tools at Huntress's Tradecraft Tuesday 2023](https://www.youtube.com/watch?v=GmlU3oWYcYs)
     * [What Happened?: Swiftly Investigating macOS Security Incidents with Aftermath at JNUC 2023](https://youtu.be/lvfQMnkOZDM?si=QFQe_Qw5192dQXoA)
