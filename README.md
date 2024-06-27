@@ -11,7 +11,7 @@ Find me around the web 🌎:
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Speaking 🗣
-    * Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024 (_coming June 2024_)
+    * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
     * [Stop Mac Hacks in Their Tracks at Huntress](https://www.youtube.com/watch?v=XUxLQQ5MEEs)
     * [Famous AMOS: Protecting Your Cookies at Huntress's Tradecraft Tuesday 2024](https://youtu.be/oV6zYhGQU6g?si=V5cn5Gs_jv-n2Qzo)
