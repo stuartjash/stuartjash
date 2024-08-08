@@ -10,6 +10,8 @@ Find me around the web 🌎:
 * macOS
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
+  * Notes
+    * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
     * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
