@@ -13,6 +13,7 @@ Find me around the web 🌎:
   * Notes
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
+    * [Infostealer Crossing: New Horizons at Objective by the Sea 2024]()
     * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
     * [Stop Mac Hacks in Their Tracks at Huntress](https://www.youtube.com/watch?v=XUxLQQ5MEEs)
@@ -23,6 +24,7 @@ Find me around the web 🌎:
     * [In the Aftermath at Objective by the Sea 2022](https://youtu.be/cC7c-eTGMOQ)
     * [A Closer Look at Built-In macOS Security Tools at JNUC 2022](https://youtu.be/awNRmUapzqg)
     * [2021 Mac Attack Trends in Review at JNUC 2021](https://youtu.be/MTyqN53FWOo)
+    * _Note: Many keynotes/slides from these talks are available in the [Presentations](https://github.com/stuartjash/presentations) repo._
   * Podcasts 🎙️
     * [SMB Community Podcast on 05/17/2024 - Endpoint Detection and Response for the MacOS with Huntres](https://podcasts.apple.com/us/podcast/smb-community-podcast/id1009543229?i=1000655769491)
     * [MacDevOpsYVR on 05/14/2024 - Aftermath with Stuart Ashenbrenner](https://podcasts.apple.com/us/podcast/macdevopsyvr-podcast/id1502634809?i=1000655619981)
