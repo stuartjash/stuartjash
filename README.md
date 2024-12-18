@@ -14,7 +14,7 @@ Find me around the web 🌎:
     * [Presentation Slides](https://github.com/stuartjash/presentations)
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
-    * [Infostealer Crossing: New Horizons at Objective by the Sea 2024]()
+    * [Stealer Crossing: New Horizons at Objective by the Sea 2024](https://youtu.be/Hv6A2XcUv2s?si=HOk-6J8oajScpekE)
     * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
     * [Stop Mac Hacks in Their Tracks at Huntress](https://www.youtube.com/watch?v=XUxLQQ5MEEs)
