@@ -16,7 +16,7 @@ Find me around the web 🌎:
   * Speaking 🗣
     * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah]() _coming Spring 2025_
     * [Mitigating Maliciousness in the Mitten at Detroit Roadshow]() _coming Spring 2025_
-    * [Texas BBQ: Breaches, Bypasses, and Quarantining with Huntress’s EDR at Houston Roadshow]()
+    * [Texas BBQ: Breaches, Bypasses, and Quarantining with Huntress’s EDR at Houston Roadshow](https://github.com/stuartjash/presentations/blob/main/Houston%20Roadshow%202025%20-%20Texas%20BBQ.key)
     * [Stealer Crossing: New Horizons at Objective by the Sea 2024](https://youtu.be/Hv6A2XcUv2s?si=HOk-6J8oajScpekE)
     * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
