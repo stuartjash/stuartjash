@@ -11,12 +11,12 @@ Find me around the web 🌎:
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Notes
-    * [Presentation Slides](https://github.com/stuartjash/presentations)
+    * [Presentation Slides](https://notes.crashsecurity.io/notes/b/72DFE831-8492-4162-87D3-1EB2FDCCD13A/Presentations)
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
-    * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah]() _coming Spring 2025_
-    * [Mitigating Maliciousness in the Mitten at Detroit Roadshow]() _coming Spring 2025_
-    * [Texas BBQ: Breaches, Bypasses, and Quarantining with Huntress’s EDR at Houston Roadshow](https://github.com/stuartjash/presentations/blob/main/Houston%20Roadshow%202025%20-%20Texas%20BBQ.key)
+    * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah]()
+    * [Mitigating Maliciousness in the Mitten at Detroit Roadshow]()
+    * [Texas BBQ: Breaches, Bypasses, and Quarantining with Huntress’s EDR at Houston Roadshow](https://secure-res.craft.do/v2/CRePJYfKkVAUd6o5ZtYNbGCZMPUv7WXhECAgTvoSkGjTbLg6JaF8JDfnEwTfqqS92pNkxRyEHeie1Pu4Cawd83HHRZLM2GJXxwyYJt4tSiQwK7ZqcabV8LbEYjFfSQkiJzveB3phJThciE6638e56QthdF8ZEd7CKnZyWjBK3FV6LRZ9c2U95f7qnZZAKUZUxYtgrvk3bRRK4pnMuzWykYtJm1659aB4hbxH8YLoij7dppNjEz84p4paHVs2QabWTfaWXvikvuptN1rGukaabhjzYf87NU7CJjfmx3k7f2Rk5pnzVr1V5dXmRz8TJDz3UD1YjbNwegvTwhqxdpw1fL9wF6C9Pi/Houston%20Roadshow%202025%20-%20Texas%20BBQ.key)
     * [Stealer Crossing: New Horizons at Objective by the Sea 2024](https://youtu.be/Hv6A2XcUv2s?si=HOk-6J8oajScpekE)
     * [Ready or Not: The (Mis)Education of macOS Security Internals at MacDevOpsYVR 2024](https://www.youtube.com/watch?v=V4FFiIpve4A)
     * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
