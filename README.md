@@ -14,7 +14,7 @@ Find me around the web 🌎:
     * [Presentation Slides](https://notes.crashsecurity.io/notes/b/72DFE831-8492-4162-87D3-1EB2FDCCD13A/Presentations)
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
-    * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025]()
+    * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025](https://www.youtube.com/watch?v=eaPXh2HD8vc&list=PLCEYktOUOsrut0iW5jQcScsaNXz1fD4lp&index=1)
     * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah](https://stream.lib.utah.edu/index.php?c=details&id=13687)
     * [Mitigating Maliciousness in the Mitten at Detroit Roadshow]()
     * [Texas BBQ: Breaches, Bypasses, and Quarantining with Huntress’s EDR at Houston Roadshow](https://secure-res.craft.do/v2/CRePJYfKkVAUd6o5ZtYNbGCZMPUv7WXhECAgTvoSkGjTbLg6JaF8JDfnEwTfqqS92pNkxRyEHeie1Pu4Cawd83HHRZLM2GJXxwyYJt4tSiQwK7ZqcabV8LbEYjFfSQkiJzveB3phJThciE6638e56QthdF8ZEd7CKnZyWjBK3FV6LRZ9c2U95f7qnZZAKUZUxYtgrvk3bRRK4pnMuzWykYtJm1659aB4hbxH8YLoij7dppNjEz84p4paHVs2QabWTfaWXvikvuptN1rGukaabhjzYf87NU7CJjfmx3k7f2Rk5pnzVr1V5dXmRz8TJDz3UD1YjbNwegvTwhqxdpw1fL9wF6C9Pi/Houston%20Roadshow%202025%20-%20Texas%20BBQ.key)
