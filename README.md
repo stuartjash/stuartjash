@@ -73,5 +73,5 @@ Find me around the web 🌎:
       * [iOS developers targeted by new XcodeSpy malware](https://www.jamf.com/blog/ios-developers-targeted-by-new-xcodespy-malware/)
       * [Apple updates to XProtect and MRT](https://www.jamf.com/blog/apple-updates-to-xprotect-and-mrt/)
      
-      *(slide decks are also available in the [Presentations repo](https://github.com/stuartjash/Presentations))*
+      *(slide decks are also available in the [Crash Security](https://notes.crashsecurity.io/notes))*
 
