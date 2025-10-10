@@ -16,6 +16,7 @@ Find me around the web 🌎:
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
     * BlueNoroff’s Clues: Investigating a DPRK Intrusion at Objective by the Sea 2025 _coming soon_
+    * [Working On My Slide Hustle: Storytelling with a Slide Deck at WeTalks 2025](https://youtu.be/CuLMtEzyQiA?si=oDLSjU3jTv42Yz1J&t=1390)
     * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025](https://www.youtube.com/watch?v=eaPXh2HD8vc&list=PLCEYktOUOsrut0iW5jQcScsaNXz1fD4lp&index=1)
     * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah](https://stream.lib.utah.edu/index.php?c=details&id=13687)
     * [Mitigating Maliciousness in the Mitten at Detroit Roadshow]()
