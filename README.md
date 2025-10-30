@@ -15,6 +15,7 @@ Find me around the web 🌎:
     * [Presentation Slides](https://notes.crashsecurity.io/notes/b/72DFE831-8492-4162-87D3-1EB2FDCCD13A/Presentations)
     * [Publicly Available macOS Notes](https://notes.crashsecurity.io/notes)
   * Speaking 🗣
+    * [Keynope to Keydope: Keynote Tutorial Part 1 at WeTalks 2025](https://www.youtube.com/watch?v=8HVJ0kPYEsk)
     * BlueNoroff’s Clues: Investigating a DPRK Intrusion at Objective by the Sea 2025 _coming soon_
     * [Working On My Slide Hustle: Storytelling with a Slide Deck at WeTalks 2025](https://youtu.be/CuLMtEzyQiA?si=oDLSjU3jTv42Yz1J&t=1390)
     * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025](https://www.youtube.com/watch?v=eaPXh2HD8vc&list=PLCEYktOUOsrut0iW5jQcScsaNXz1fD4lp&index=1)
