@@ -17,7 +17,7 @@ Find me around the web 🌎:
   * Tutorial ⌨️
     * [Keynope to Keydope: Keynote Tutorial Part 1 at WeTalks 2025](https://www.youtube.com/watch?v=8HVJ0kPYEsk)
   * Speaking 🗣
-    * BlueNoroff’s Clues: Investigating a DPRK Intrusion at Objective by the Sea 2025 _coming soon_
+    * [BlueNoroff’s Clues: Investigating a DPRK Intrusion at Objective by the Sea 2025](https://www.youtube.com/watch?v=_udIKceip34&list=PLliknDIoYszveXp7vp2RuL5wa-MaxkCzc&index=19)
     * [Working On My Slide Hustle: Storytelling with a Slide Deck at WeTalks 2025](https://youtu.be/CuLMtEzyQiA?si=oDLSjU3jTv42Yz1J&t=1390)
     * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025](https://www.youtube.com/watch?v=eaPXh2HD8vc&list=PLCEYktOUOsrut0iW5jQcScsaNXz1fD4lp&index=1)
     * [Ready or Not: The Revised (Mis)Education of macOS Security Internals at MacAdmins University of Utah](https://stream.lib.utah.edu/index.php?c=details&id=13687)
