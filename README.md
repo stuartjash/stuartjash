@@ -10,7 +10,7 @@ Find me around the web 🌎:
 * macOS
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
-  * Notes
+  * Blog: macOS Research
     * [Malware Knowledge Base](https://blog.crashsecurity.io/macos-research/b/06C749EC-4BB5-4D23-82EF-B64444AF4C5D/Malware-Knowledge-Base)
     * [Presentation Slides](https://blog.crashsecurity.io/macos-research/b/72DFE831-8492-4162-87D3-1EB2FDCCD13A/Presentations-Slides)
     * [Publicly Available macOS Notes](https://blog.crashsecurity.io/macos-research)
