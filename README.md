@@ -1,6 +1,6 @@
 ### Hi Everyone 👋👨‍💻
 
-My name is Stuart. I'm a macOS security researcher at Huntress, and I created Crash Security (although I don't really maintain it anymore). I'm a reader 📖, basketball coach 🏀, and play the violin 🎻. Former radio DJ and play-by-play broadcaster.
+My name is Stuart. I'm a macOS security researcher at Huntress, and I created Crash Security.
 
 Find me around the web 🌎:
 * Personal
