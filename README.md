@@ -11,9 +11,9 @@ Find me around the web 🌎:
   * Open Source Projects 🤓
     * [Aftermath](https://github.com/stuartjash/aftermath) 💥
   * Blog: macOS Research
+    * [macOS Research](https://blog.crashsecurity.io/macos-research)
     * [Malware Knowledge Base](https://blog.crashsecurity.io/macos-research/b/06C749EC-4BB5-4D23-82EF-B64444AF4C5D/Malware-Knowledge-Base)
     * [Presentation Slides](https://blog.crashsecurity.io/macos-research/b/72DFE831-8492-4162-87D3-1EB2FDCCD13A/Presentations-Slides)
-    * [Publicly Available macOS Notes](https://blog.crashsecurity.io/macos-research)
   * Tutorial ⌨️
     * [Keynope to Keydope: Keynote Tutorial Part 1 at WeTalks 2025](https://www.youtube.com/watch?v=8HVJ0kPYEsk)
   * Speaking 🗣
