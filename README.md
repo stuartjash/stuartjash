@@ -17,8 +17,6 @@ Find me around the web 🌎:
   * Tutorial ⌨️
     * [Keynope to Keydope: Keynote Tutorial Part 1 at WeTalks 2025](https://www.youtube.com/watch?v=8HVJ0kPYEsk)
   * Speaking 🗣
-    * [Pursuing Parity: Attempting to Bring Cross-Platform Unity](https://www.huntress.com/blog/pursuing-parity-cross-platform-unity)
-    * [AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
     * [BlueNoroff’s Clues: Investigating a DPRK Intrusion at Objective by the Sea 2025](https://www.youtube.com/watch?v=_udIKceip34&list=PLliknDIoYszveXp7vp2RuL5wa-MaxkCzc&index=19)
     * [Working On My Slide Hustle: Storytelling with a Slide Deck at WeTalks 2025](https://youtu.be/CuLMtEzyQiA?si=oDLSjU3jTv42Yz1J&t=1390)
     * [Say Hello to Mac Malware at Huntress's Tradecraft Tuesday 2025](https://www.youtube.com/watch?v=eaPXh2HD8vc&list=PLCEYktOUOsrut0iW5jQcScsaNXz1fD4lp&index=1)
@@ -44,6 +42,8 @@ Find me around the web 🌎:
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
       * [Deceptive Installers: How Fake Apps Target macOS](https://www.huntress.com/blog/deceptive-installers-macos-infostealers)
+      * [Pursuing Parity: Attempting to Bring Cross-Platform Unity](https://www.huntress.com/blog/pursuing-parity-cross-platform-unity)
+      * [AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
       * [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
       * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
       * [LightSpy Malware Variant Targeting macOS](https://www.huntress.com/blog/lightspy-malware-variant-targeting-macos)
