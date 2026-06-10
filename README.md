@@ -43,6 +43,7 @@ Find me around the web 🌎:
     * [MacDevOpsYVR on 06/07/2023 - Hey let's get ready for MacDevOps!](https://podcasts.apple.com/us/podcast/macdevopsyvr-podcast/id1502634809?i=1000616064309)
   * Technical Writing 📝
     * [Huntress](https://www.huntress.com/blog/author/stuart-ashenbrenner)
+      * [Deceptive Installers: How Fake Apps Target macOS](https://www.huntress.com/blog/deceptive-installers-macos-infostealers)
       * [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
       * [Debunking 5 Major macOS Myths](https://www.huntress.com/blog/debunking-5-major-macos-myths)
       * [LightSpy Malware Variant Targeting macOS](https://www.huntress.com/blog/lightspy-malware-variant-targeting-macos)
